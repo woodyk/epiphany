@@ -1,4 +1,4 @@
-# epiphany
+# Epiphany
 
 Text is in again.
 Image
