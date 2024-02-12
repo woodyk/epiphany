@@ -1,0 +1,56 @@
+Wadih Khairallah
+225 SW 8th Street, Dania, FL 33004
+Phone: (954) 559-1445 | Email: wadih@smallroom.com
+LinkedIn: www.linkedin.com/in/wadih
+
+Objective
+Seeking to further my experiences in devops, system security, architecture, and management while contributing to the development of new systems and generating innovative solutions within a team-oriented environment.
+
+Skills
+- Management: Operations, Engineering, Systems Administration, Research
+- Operating Systems: Linux, AIX, BSD, MacOS, Windows, Solaris
+- Programming Languages: Perl, PHP, Shell Scripting, Python, HTML
+- Databases: MySQL, SQLite, Redis, Elasticsearch, Cassandra, and more
+- Networking: Network Security, Routing, TCP/IP, UDP, ICMP, IGMP, tcpdump, Nmap, Network load balancing, NetFlow / sflow and more
+- Services: FTP, SSH, HTTP/s, DNS, POP, IMAP, SMTP, NFS, samba, SAN/NAS, SNMP, AWS / EC2, Google Cloud Services, Forward / Reverse proxies
+- Other Applications: Docker, Ansible, Terraform, Apache, DNS (bind, tinydns), iptables, Nagios, Tripwire, Elastic Stack, Grafana, Wireshark, Confluence / Jira, Git, Snort, Suricata, VMWare, VirtualBox, Rancher, Node-RED, Sketchup and more
+
+Professional Experience
+Trial n' Error R&D, Dania Beach, FL | Founder | 01/2019 - Present
+- Providing Linux system administration and engineering to design new infrastructure and maintain existing infrastructure
+- Utilizing Perl, Python, and shell scripting languages for automation tasks
+- Designing and implementing custom virtual environments for anonymized web crawling services
+- Deploying custom Docker clusters for development teams
+- Developing customer network packet indexing software for on-demand research
+
+Akamai Technologies, Ft. Lauderdale, FL | Architect for Cloud Security Products | 01/2018 - 03/2019
+- Focused on network data analytics and cloud-based security solutions
+- Created automated DDoS detection and mitigation solutions
+- Designed methods for automated ACL creation across customer networks
+- Developed an automatic attack report generator for the Security Operations Center
+
+Akamai Technologies, Ft. Lauderdale, FL | Manager Engineering - Manager Security Research | 02/2014 - 12/2018
+- Led a team of engineers and researchers in research, development, administration, engineering, and prototyping
+- Managed platform migrations and integrations for rapid DDoS detection and real-time attack mitigation
+- Deployed and maintained global scrubbing center platforms
+- Designed and implemented a searchable network traffic index for historical and real-time customer traffic comparisons
+
+Prolexic Technologies, Hollywood, FL | Sr. System Engineer - Principal Architect - Director Engineering | 02/2008 - 01/2014
+- Led a team of systems administrators, engineers, and security professionals
+- Developed a NetFlow network monitoring system for DDoS detection on premises
+- Worked on the design and implementation of global scrubbing center infrastructure
+- Deployed company-wide file integrity platform and maintained various internal and external services
+
+Affinity / Valueweb / Hostway, Ft. Lauderdale, FL | Systems Administrator - Systems Infrastructure Engineer | 01/1999 - 01/2008
+- Maintained and troubleshooted a large shared hosting platform
+- Developed automated weekly/daily report platforms for system health and growth trends
+- Created user interfaces for project tracking, staff management, and system monitoring
+- Organized and managed project rollouts, system maintenance schedules, and data migrations
+- Mentored other systems administrators in problem-solving and solution execution
+
+Education
+School of Hard Knocks 1975 - NOW
+
+Honors & Awards
+- Principal Platform Architect - Employee of the Month, Prolexic Technologies, 12/2012
+- Infrastructure Engineer - Employee of the Year, Affinity Internet Inc, 12/2004

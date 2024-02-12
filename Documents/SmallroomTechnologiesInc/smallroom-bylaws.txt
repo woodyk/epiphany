@@ -1,0 +1,85 @@
+[COMPANY NAME]
+
+CORPORATE BYLAWS
+
+Article I: Offices
+
+Section 1. Principal Office
+The principal office of the corporation shall be located at [insert address], [insert city], [insert state], [insert ZIP code].
+
+Section 2. Change of Address
+The board of directors may change the location of the principal office. Any such change shall be noted in the bylaws.
+
+Article II: Shareholders
+
+Section 1. Annual Meeting
+An annual meeting of shareholders shall be held on [insert date], or on another date as determined by the board of directors, for the purpose of electing directors and conducting other business as may properly come before the meeting.
+
+Section 2. Special Meetings
+Special meetings of shareholders may be called by the president, the board of directors, or shareholders representing at least [insert percentage]% of the outstanding shares.
+
+Section 3. Notice of Meetings
+Written or electronic notice of each meeting of shareholders, stating the place, date, and hour of the meeting, and in the case of a special meeting, the purpose or purposes for which the meeting is called, shall be given to each shareholder entitled to vote at the meeting not less than [insert number] days nor more than [insert number] days before the date of the meeting.
+
+Article III: Directors
+
+Section 1. Number and Qualifications
+The board of directors shall consist of [insert number] members. Directors need not be residents of [insert state] or shareholders of the corporation.
+
+Section 2. Election and Term of Office
+Directors shall be elected at the annual meeting of shareholders and shall hold office for a term of [insert number] years, or until their successors are elected and qualified.
+
+Section 3. Regular Meetings
+A regular meeting of the board of directors shall be held immediately following the annual meeting of shareholders. The board may designate additional regular meetings to be held at such times and places as it may determine.
+
+Section 4. Special Meetings
+Special meetings of the board of directors may be called by the president or any two directors.
+
+Section 5. Notice of Meetings
+Notice of each special meeting shall be given to each director by [insert method of communication] at least [insert number] hours prior to the meeting.
+
+Article IV: Officers
+
+Section 1. Officers
+The officers of the corporation shall be a president, a secretary, a treasurer, and such other officers as may be appointed by the board of directors. Any two or more offices may be held by the same person, except the offices of president and secretary.
+
+Section 2. Election and Term of Office
+The officers of the corporation shall be elected annually by the board of directors at the first meeting of the board held after each annual meeting of shareholders.
+
+Section 3. Removal
+Any officer or agent elected or appointed by the board of directors may be removed by the board whenever, in its judgment, the best interests of the corporation would be served.
+
+Article V: Contracts, Loans, Checks, and Deposits
+
+Section 1. Contracts
+The board of directors may authorize any officer or officers, agent or agents, to enter into any contract or execute and deliver any instrument in the name of and on behalf of the corporation.
+
+Section 2. Loans
+No loans shall be contracted on behalf of the corporation and no evidences of indebtedness shall be issued in its name unless authorized by a resolution of the board of directors.
+
+Section 3. Checks, Drafts
+All checks, drafts, or other orders for the payment of money, notes, or other evidences of indebtedness issued in the name of the corporation shall be signed by such officer or officers, agent or agents of the corporation and in such manner as shall from time to time be determined by resolution of the board of directors.
+
+Section 4. Deposits
+All funds of the corporation not otherwise employed shall be deposited from time to time to the credit of the corporation in such banks, trust companies, or other depositories as the board of directors may select.
+
+Article VI: Fiscal Year
+
+Section 1. Fiscal Year
+The fiscal year of the corporation shall begin on the [insert day] day of [insert month] and end on the [insert day] day of [insert month] in each year.
+
+Article VII: Indemnification
+
+Section 1. Indemnification
+The corporation shall indemnify any director, officer, employee, or agent of the corporation who was or is a party or is threatened to be made a party to any threatened, pending, or completed action, suit, or proceeding, whether civil, criminal, administrative, or investigative, by reason of the fact that they are or were a director, officer, employee, or agent of the corporation, against expenses, including attorney's fees, judgments, fines, and amounts paid in settlement, actually and reasonably incurred by them in connection with such action, suit, or proceeding, to the extent permitted by applicable law.
+
+Article VIII: Amendments
+
+Section 1. Amendments
+These bylaws may be altered, amended, or repealed, and new bylaws may be adopted by the board of directors or the shareholders of the corporation. The corporation shall provide notice of any proposed amendment to the bylaws to the shareholders not less than [insert number] days nor more than [insert number] days before the date of the meeting at which the amendment will be considered.
+
+Adopted this [insert day] day of [insert month], [insert year].
+
+[insert name], President
+
+[insert name], Secretary
